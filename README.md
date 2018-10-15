@@ -1,4 +1,4 @@
-# Task #2
+# sort-item-task
 
 Практика ООП.
 
